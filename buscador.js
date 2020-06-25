@@ -11,7 +11,7 @@ class Search {
     init() {
         let input, listContainer;
         this.el.innerHTML = `
-			<input placeholder="Buscar aqui" type="text" class="input"/>
+			<input placeholder="Buscar aqui tu pais" type="text" class="input"/>
 			<listgroup class="is-visible" id="searchList"></listgroup>
 		`;
         input = document.querySelector('.input');

@@ -7,6 +7,15 @@ let buscador = new Search({
         'Colombia',
         'Suecia',
         'Korea',
-        'Brasil'
+        'Brasil',
+        'argentina',
+        'Canada',
+        'Congo',
+        'Brazil',
+        'Peru',
+        'Alemania'
+
+
     ]
-});
+})
+;
